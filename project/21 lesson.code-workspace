@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "font-awesome-4.7.0"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "21 lesson"
+  }
+}
